@@ -44,7 +44,6 @@ The game contains **4 different symbols**, each with different values and occurr
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/dhruveshpatel25/Slot-Machine-Using_Python
-cd slot-machine-game
 ```
 
 ### **2. Run the Python File**
